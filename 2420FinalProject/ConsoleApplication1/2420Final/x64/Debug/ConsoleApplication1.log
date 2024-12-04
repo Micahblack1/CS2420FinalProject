@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\mblac\Code\Code_C++\2420FinalProject\ConsoleApplication1\Rooms.h(124,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\mblac\Code\Code_C++\2420FinalProject\ConsoleApplication1\Main.cpp(95,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\mblac\Code\Code_C++\2420FinalProject\ConsoleApplication1\x64\Debug\2420Final.exe
